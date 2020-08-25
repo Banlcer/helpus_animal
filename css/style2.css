@@ -1,0 +1,133 @@
+.navbar{
+    background-color: #e1f4f3 !important;
+}
+.nav-link{
+    font-weight: bold;
+    color: rgb(4, 157, 196) !important;
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px;
+    margin: 10px;
+}
+.navbar li a:hover{
+    color:rgb(11, 235, 235) !important;
+}
+
+.navbar-branch h4{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(10, 194, 240);
+    padding: 10px;
+}
+/*Xoá underline của link*/
+.container-fluid .navbar-branch{
+    text-decoration: none;
+}
+/*ở trên là của navbar*/
+
+.dropdown-item{
+    color: rgb(4, 157, 196) !important;
+}
+.dropdown-item:hover{
+    color:rgb(11, 235, 235) !important;
+}
+.carousel-caption h4{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 150%;
+    text-shadow: 5px 5px 11px aquamarine;
+}
+.carousel-inner .img-fluid{
+    filter: blur(4px);
+  -webkit-filter: blur(4px);
+}
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    height: 40px;
+    width: 40px;
+    filter:invert(1);
+}
+.row{
+    padding: 5px;
+    margin: 0px;
+}
+
+/*donate*/
+.container-fluid .display-1{
+    padding: 5px;
+    margin: 70px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: rgb(4, 157, 196) !important;
+    text-transform: uppercase;
+}
+
+/*billing*/
+.form-group .col-md-3{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(4, 157, 196) !important;
+    text-transform: uppercase;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.form-group .form-group{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(4, 157, 196) !important;
+}
+
+/*Payment*/
+/*Volunteer*/
+.container .volunteer{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(4, 157, 196) !important;
+}
+
+/*Contact*/
+.container-fluid .contactus{
+    color: rgb(4, 157, 196) !important;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+/*Social*/
+.fa-google-plus-g{
+    font-size: 3rem;
+    color:#db4a39;
+}
+.fa-line{
+    font-size: 3rem;
+    color:#00b900;  
+}
+.fa-facebook{
+    font-size: 3rem;
+    color:#3b5998;
+}
+.fa-twitter{
+    font-size: 3rem;
+    color:#00acee;
+}
+.fa-instagram{
+    font-size:3rem;
+    color:#3f729b;
+}
+.social a{
+    padding: 10px;
+    margin: 10px;
+}
+.my-2{
+    width: 95%;
+}
+
+/*Button*/
+.index2{
+    font-size: 2rem;
+}
+.index2:hover{
+    background-color: rgb(11,235,235) !important;
+}
+
+/*Copy, terms, private*/
+.under1{
+    text-decoration: underline;
+}
+.dieukhoan .col-12{
+    color: gray;
+}
